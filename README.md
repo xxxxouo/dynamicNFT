@@ -1,6 +1,5 @@
-# Sample Hardhat Project
+# 动态修改NFT元数据
 
-动态修改NFT元数据 
 
 ```shell
 npx hardhat help
